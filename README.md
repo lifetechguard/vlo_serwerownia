@@ -1,4 +1,4 @@
-# VDokumentacja serwerowni IBiI UKEN
+# Dokumentacja serwerowni V lo w Krakowie
 
 W tym dokumencie znajduje się opis nowej infrastuktury oraz narzędzi stosowanych w sewrerownii V lo w Krakowie
 
